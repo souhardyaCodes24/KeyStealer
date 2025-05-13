@@ -36,3 +36,20 @@ This is a Python-based keylogger that captures keystrokes on one machine and for
 ```bash
 git clone https://github.com/yourusername/keylogger-project.git
 cd keylogger-project
+```
+
+---
+
+## ⚠️ Ethical Disclaimer
+
+This project is intended **solely for educational and ethical research purposes**. It demonstrates how keystroke data can be captured and transmitted across devices using Python and HTTP. It must **not** be used for malicious activities, spying, or invading others’ privacy.
+
+By using or modifying this code, **you agree** to the following:
+- You have **explicit permission** to use this keylogger on the system you're monitoring.
+- You will not deploy this tool on **unauthorized devices or networks**.
+- You take **full responsibility** for how you use or distribute this software.
+
+Unauthorized use of keyloggers is illegal and unethical. Always act responsibly and follow your local laws, institutional guidelines, and ethical standards.
+
+> ⚖️ _Respect privacy. Act with integrity. Use for good._
+
